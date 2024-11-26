@@ -1,2 +1,2 @@
 # IBM_Datascience
-All code writte during the coursera course
+All code written during the coursera course
